@@ -3,10 +3,10 @@
 
 class Airline {
 private:
-  // variables
+	// variables
 
 public:
-  // functions
+	// functions
 	void MainMenu();
 
 };
